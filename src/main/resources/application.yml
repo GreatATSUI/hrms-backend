@@ -9,10 +9,3 @@ spring:
       ddl-auto: update
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 
-springdoc:
-  api-docs:
-    title: My API
-    description: This is a custom description of my API.
-    version: 1.0
-  swagger-ui:
-    enabled: true
